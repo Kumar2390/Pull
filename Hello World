@@ -1,0 +1,9 @@
+public class java{
+  public static void main(String[] args){
+      str ="Hello World";
+      System.out.println(str);
+  }
+}  
+  
+  
+  
